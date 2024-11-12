@@ -1,0 +1,33 @@
+:root {
+  font-family: Figtree, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  /* ## Colors */
+
+  --Yellow: hsl(47, 88%, 63%);
+  --White: hsl(0, 0%, 100%);
+  --Gray500: hsl(0, 0%, 42%);
+  --Gray950: hsl(0, 0%, 7%);
+
+  /* ## Typography */
+
+  /* ### Body Copy */
+
+  --Fontparagraph: 16px;
+
+  /* ### Font */
+
+  --Weights500: 500;
+  --Weights800: 800;
+}
+
+body {
+  background-color: var(--Yellow);
+}
+
+.card {
+  box-shadow: 8px 8px black;
+}
+h3{
+  line-height: 150%;
+  font-weight: bolder;
+}
