@@ -4,7 +4,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Link
 
-- **Live Site URL: [Blog Preview Card](https://app.netlify.com/sites/blog-preview-card-tailwind/overview)**
+- **Live Site URL: [Blog Preview Card](https://blog-preview-card-tailwind.netlify.app/)**
 
 ### Built with
 
